@@ -77,3 +77,60 @@ h2 {
     background-color: rgba(234, 240, 246, 0.1);
     transition: ease-out 0.3s;
 }
+
+.heading-1 h1 {
+    width: 1170px;
+    margin: 0 auto 35px;
+    font-size: 48px;
+    color: #000;
+    font-weight: 700;
+    line-height: 50px;
+}
+
+.logo img {
+    width: 212px;
+    padding-bottom: 24px;
+    padding-top: 36px;
+}
+
+.paytm-bank {
+    margin-top: 48px;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 50px;
+    margin-bottom: 24px;
+}
+
+.paytm-description span {
+    padding-top: 12px;
+    display: block;
+    width: 515px;
+    margin-bottom: 45px;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 26px;
+}
+
+.learn-more-btn {
+    background: #002E6E;
+    border-radius: 28px;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 12px 20px 12px 20px;
+    border: none;
+
+}
+
+.mobile-1 img {
+    width: 452px;
+    margin-left: 200px;
+}
+
+.main-box {
+    display: flex;
+}
+
+.section-3 {
+    padding: 100px;
+    background-color: #ccc;
+}
