@@ -87,31 +87,80 @@ h2 {
     line-height: 50px;
 }
 
-.logo img {
+
+
+
+.logo-1 img {
     width: 212px;
-    padding-bottom: 24px;
     padding-top: 36px;
+    padding-bottom: 24px;
+
 }
 
-.paytm-bank {
+.logo-2 img,
+.logo-3 img,
+.logo-4 img {
+    width: 170px;
+    padding-top: 12px;
+
+}
+
+/* .logo-3 img {
+    width: 212px;
+    padding-top: 36px;
+    padding-bottom: 24px;
+
+} */
+
+.paytm-head-1,
+.paytm-head-2,
+.paytm-head-3,
+.paytm-head-4 {
     margin-top: 48px;
     font-size: 40px;
     font-weight: 700;
     line-height: 50px;
+}
+
+.paytm-head-1,
+.paytm-head-4 {
     margin-bottom: 24px;
 }
 
-.paytm-description span {
+.paytm-head-2,
+.paytm-head-3 {
+    margin-bottom: 12px;
+}
+
+.paytm-description-1 span,
+.paytm-description-2 span,
+.paytm-description-3 span,
+.paytm-description-4 span {
     padding-top: 12px;
     display: block;
     width: 515px;
-    margin-bottom: 45px;
     font-size: 20px;
     font-weight: 500;
     line-height: 26px;
 }
 
-.learn-more-btn {
+.paytm-description-1 span {
+    margin-bottom: 45px;
+}
+
+.paytm-description-2 span {
+    margin-bottom: 24px;
+}
+
+.paytm-description-3 span,
+.paytm-description-4 span {
+    margin-bottom: 36px;
+}
+
+.learn-more-btn-1,
+.learn-more-btn-2,
+.learn-more-btn-3,
+.learn-more-btn-4 {
     background: #002E6E;
     border-radius: 28px;
     color: #ffffff;
@@ -121,16 +170,38 @@ h2 {
 
 }
 
-.mobile-1 img {
+.mobile-1 img,
+.mobile-3 img {
     width: 452px;
     margin-left: 200px;
 }
 
-.main-box {
+.mobile-2 img {
+    width: 460px;
+    margin-right: 200px;
+}
+
+.mobile-4 img {
+    width: 440px;
+    margin-right: 200px;
+}
+
+
+.main-box-1,
+.main-box-2,
+.main-box-3,
+.main-box-4 {
     display: flex;
 }
 
-.section-3 {
+
+.section-3,
+.section-4,
+.section-5,
+.section-6 {
     padding: 100px;
+}
+
+.bg {
     background-color: #ccc;
 }
