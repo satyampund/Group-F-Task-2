@@ -203,5 +203,62 @@ h2 {
 }
 
 .bg {
-    background-color: #ccc;
+    background-color: rgb(245, 254, 245)
+}
+
+
+
+
+
+.main-div h1 {
+    padding-bottom: 89px;
+    width: 480px;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+}
+
+.cards-div {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.card-div {
+    width: 21.5%;
+    margin-right: 70px;
+}
+
+.card-div img {
+    width: 100%;
+}
+
+.box-heading {
+    padding: 40px 0 20px;
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 32px;
+    margin-bottom: 12px;
+}
+
+box-div p {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+}
+
+.card-div p {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+}
+
+.card-div span {
+    margin-top: 100px;
+}
+
+.main-div {
+    width: 1170px;
+    margin: auto;
+    padding: 120px 0;
 }
